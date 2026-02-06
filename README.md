@@ -38,16 +38,14 @@
 
 ## 🔧 Installation
 
-1. Install kOS mod for Kerbal Space Program
+1. Install `kOS` mod for Kerbal Space Program
 2. Clone or download this repository
 3. Copy all `.ks` files to your KSP `Ships/Script` folder or load them onto your craft's kOS processor
 
 ## 🎮 Usage
 
-### Start the Script
-
 ```kerboscript
-run Launch.
+run launch.
 ```
 
 ### Interactive Controls
